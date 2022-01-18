@@ -1,4 +1,3 @@
-
 # Week 1 - Program C Assignment
 
 ### Contents
@@ -49,4 +48,4 @@ After that, the program would find out which coins (quarters, dimes, nickels, an
 ### 3.Credit.c
 
 In this assignment, I am tasked to create a program, which first prompt the user to enter a long string of numbers indicating their credit card numbers.
-After that, the programme will first use the checksum method to check whether the string of number is a valid credit card number. If the number is valid from the check sum perspective, the programme will cross check with the requirement of AMEX, Mastercard, and Visa
+After that, the programme will first use the checksum method to check whether the string of number is a valid credit card number. If the number is valid from the check sum perspective, the programme will cross check with the requirement of AMEX, Mastercard, and Visa to indicate if the credit card belongs to either of these brands. If not, an invalid will return as well. 
